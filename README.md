@@ -1,6 +1,7 @@
-# This repository is about my capstone projects 1 for Springboard Data Science course. The proposal is as follows
+#Credit Approval Model for Banks
 
-Capstone Project 1 Proposal: Credit Approval Model for Banks 
+The following proposal is for my 1st capstone project for Springboard Data Science course.
+ 
 Mandy Pan
 January, 2018
 
