@@ -15,7 +15,7 @@ This project will test on the modified dataset, which combines an existing datas
 3.1 Data Pre-processing and Exploratory Data Analysis 
 At the beginning of the research, Principle Component Analysis(PCA) is used to discover the powerful factors to determines the default event.  Since there are lots of macroeconomic factors, it is necessary to eliminate those less relevant factors.
 
-3.2 Trading methods
+3.2 Training methods
 Three major methods will be used, Logistic Regression Model, Decision Tree methods and Random Forest Classifier
 
 4.Validation Method
