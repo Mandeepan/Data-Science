@@ -13,7 +13,7 @@ This project will test on the modified dataset, which combines an existing datas
 
 3. Major Steps (To be changed if necessary)
 3.1 Data Pre-processing and Exploratory Data Analysis 
-At the beginning of the research, Principle Component Analysis(PCA) is used to discover the powerful factors to determines the default event.  Since there are lots of macroeconomic factors, it is necessary to eliminate those less relevant factors.
+The existing 30000 observations between April 2005 and September 2005 and doesn’t include any indications of specific timing for customers receiving their credit cards. However, the macroeconomic indicators are time-variated. Hence, given the 6 monthly data points of each indicator, the program will randomly pick 1 data point. Although with random simulation, the final data result may not reflect the true fact. The macrocosmic data still plays an important role in affecting the creditability of individuals.
 
 3.2 Training methods
 Three major methods will be used, Logistic Regression Model, Decision Tree methods and Random Forest Classifier
